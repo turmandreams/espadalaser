@@ -3,7 +3,7 @@ Espada Laser con ESP32
 
 
 
-[![Alt text](https://img.youtube.com/vi/hF1fhPaZASY/0.jpg)]([https://www.youtube.com/watch?v=configuroweb](https://www.youtube.com/shorts/hF1fhPaZASY))
+[![Alt text](https://img.youtube.com/vi/hF1fhPaZASY/0.jpg)](https://www.youtube.com/shorts/hF1fhPaZASY))
 
 
 Esquemático
