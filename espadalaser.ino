@@ -229,7 +229,7 @@ void setup() {
 
   
   
-  pinMode(25,INPUT_PULLUP);
+  pinMode(15,INPUT_PULLUP);
   
   Wire.begin(21,22);
   Wire.beginTransmission(MPU);
