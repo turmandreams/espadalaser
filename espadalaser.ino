@@ -229,7 +229,7 @@ void setup() {
 
   
   
-  pinMode(36,INPUT_PULLUP);
+  pinMode(25,INPUT_PULLUP);
   
   Wire.begin(21,22);
   Wire.beginTransmission(MPU);
@@ -354,10 +354,10 @@ void loop() {
    
     if((millis()-tiempo)>500){    
                                     
-      if(digitalRead(36)==LOW) {
+      if(digitalRead(15)==LOW) {
         
           int contador=0;
-          while(digitalRead(36)==LOW){         
+          while(digitalRead(15)==LOW){         
             delay(10);
             yield2();     
             contador++; 
